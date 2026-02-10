@@ -1191,8 +1191,9 @@ input::placeholder {
 
 .exp-table td {
     border: 1px solid black;
-    padding: 12px;
+    padding: 22px 15px;
     font-size: 16px;
+    min-height: 50px;
 }
 
 .bold {
